@@ -4,6 +4,6 @@ ASDF extension to provide support for file-local variables
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/didierverna/asdf-flv.git |
-| commit  | fc5b739                                         |
+| commit  | 3f1de41                                         |
 | systems | net.didierverna.asdf-flv                        |
 |---------+-------------------------------------------------|
